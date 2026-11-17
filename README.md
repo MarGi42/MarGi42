@@ -37,7 +37,7 @@ I'm moving into IT networking and blue-team security. I learn by building labs a
 
 ## Projects
 
-**[Active Directory + Sysmon + Splunk home lab](https://github.com/YOUR-LOGIN/ad-splunk-soc-lab)**
+**[Active Directory + Sysmon + Splunk home lab](https://github.com/MarGi42/ad_splunk-lab)**
 A small SOC in VirtualBox: a domain controller, a log pipeline into Splunk, a dashboard, and a simulated ATT&CK T1087.001 reconnaissance run traced through the logs. The README includes the problems I hit and how I solved them.
 
 *More projects coming (Sigma rules, Splunk BOTS v3, Linux and networking labs).*
