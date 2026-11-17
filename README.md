@@ -24,8 +24,8 @@ I'm moving into IT networking and blue-team security. I learn by building labs a
 <p>
   <img src="https://img.shields.io/badge/SOC-0A66C2?style=for-the-badge" alt="SOC" />
   <img src="https://img.shields.io/badge/Blue_Team-1F6FEB?style=for-the-badge" alt="Blue Team" />
-  <img src="https://img.shields.io/badge/Red_Team-B31B1B?style=for-the-badge" alt="Red Team" />
-  <img src="https://img.shields.io/badge/Pentesting-8B0000?style=for-the-badge" alt="Pentesting" />
+  <!-- <img src="https://img.shields.io/badge/Red_Team-B31B1B?style=for-the-badge" alt="Red Team" /> -->
+  <!-- <img src="https://img.shields.io/badge/Pentesting-8B0000?style=for-the-badge" alt="Pentesting" /> -->
 </p>
 
 ## What I'm working on
